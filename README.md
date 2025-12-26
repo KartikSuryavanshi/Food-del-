@@ -1,4 +1,4 @@
-# 🍔 Food-del – Responsive Food Delivery Application
+# 🍔 Tomato – Responsive Food Delivery Application
 
 ## 👤 Author
 Kartik Suryavanshi  
@@ -6,7 +6,7 @@ Kartik Suryavanshi
 ---
 
 ## 📌 Project Overview
-**Food-del** is a modern, responsive **food delivery web application** built using **React.js** for the frontend and **Node.js with Express.js** for the backend.
+**Tomato** is a modern, responsive **food delivery web application** built using **React.js** for the frontend and **Node.js with Express.js** for the backend.
 
 The application provides a seamless user experience across all devices, enabling users to browse food items, place orders, manage their cart, and track orders with real-time updates.
 
